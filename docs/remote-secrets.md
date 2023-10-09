@@ -1,7 +1,7 @@
 # Secrets
 
 helmfile can handle secrets using [helm-secrets](https://github.com/jkroepke/helm-secrets) plugin or using remote secrets storage
-(everything that package [vals](https://github.com/helmfile/vals) can handle vault, AWS SSM etc)
+(everything that package [vals](https://github.com/SMouchlianitis/vals) can handle vault, AWS SSM etc)
 This section will describe the second use case.
 
 # Remote secrets

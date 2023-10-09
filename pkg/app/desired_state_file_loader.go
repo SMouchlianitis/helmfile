@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/helmfile/vals"
+	"github.com/SMouchlianitis/vals"
 	"github.com/imdario/mergo"
 	"go.uber.org/zap"
 

@@ -18,8 +18,8 @@ import (
 	"time"
 
 	"github.com/Masterminds/semver/v3"
+	"github.com/SMouchlianitis/vals"
 	"github.com/helmfile/chartify"
-	"github.com/helmfile/vals"
 	"github.com/imdario/mergo"
 	"github.com/tatsushid/go-prettytable"
 	"go.uber.org/zap"

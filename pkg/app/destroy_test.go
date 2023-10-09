@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/helmfile/vals"
+	"github.com/SMouchlianitis/vals"
 	"go.uber.org/zap"
 
 	"github.com/helmfile/helmfile/pkg/exectest"

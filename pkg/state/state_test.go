@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver/v3"
-	"github.com/helmfile/vals"
+	"github.com/SMouchlianitis/vals"
 	"github.com/stretchr/testify/require"
 
 	"github.com/helmfile/helmfile/pkg/environment"

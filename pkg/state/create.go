@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/helmfile/vals"
+	"github.com/SMouchlianitis/vals"
 	"github.com/imdario/mergo"
 	"go.uber.org/zap"
 

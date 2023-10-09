@@ -7,8 +7,8 @@ import (
 	"sync"
 	"testing"
 
+	"github.com/SMouchlianitis/vals"
 	"github.com/google/go-cmp/cmp"
-	"github.com/helmfile/vals"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 
